@@ -2,8 +2,7 @@ Calories AI 🍽️
 
 Web version of the popular iOS app "Cal AI - Calorie Tracker"
  Live Demo
-https://ghazala001.github.io/calories-ai
- Features
+
 - Google Sign-In
 - Scan meals by photo or text → real Gemini AI analysis
 - Calories, protein, carbs, fat with beautiful macro circles
